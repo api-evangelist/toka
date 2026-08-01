@@ -1,0 +1,20 @@
+# Toka
+
+> Toka is a defense and intelligence technology company (founded 2017-2018, headquartered in Maryland, US, with roots in Israel) that builds signals intelligence, ISR, cyber operations, and force protection capabilities exclusively for militaries, homeland security organizations, intelligence agencies, and law enforcement in the United States and allied nations. Backed by Andreessen Horowitz (a16z), Eclipse Ventures, and Dell Technologies Capital. Toka publishes no public developer portal, API documentation, or machine-readable API artifacts.
+
+## Company
+
+- [Website](https://tokagroup.com/): Corporate site for Toka's government-facing intelligence capabilities
+- [Mission](https://tokagroup.com/mission/): Signals intelligence and operational access overview
+- [About](https://tokagroup.com/about/): Company background and leadership
+- [News & Press](https://tokagroup.com/news/): Company news and press releases
+- [Careers](https://tokagroup.com/careers/): Open roles
+
+## Policies
+
+- [Privacy Policy](https://tokagroup.com/privacy-policy/)
+- [Terms & Conditions](https://tokagroup.com/terms-conditions/)
+
+## APIs
+
+Toka publishes no public APIs, developer documentation, SDKs, or API specifications. Its platforms are sold directly to vetted government agencies and are not publicly accessible.

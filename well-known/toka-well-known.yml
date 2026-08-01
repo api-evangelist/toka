@@ -1,0 +1,24 @@
+generated: '2026-07-21'
+method: searched
+source: https://tokagroup.com/
+host: https://tokagroup.com
+note: No /.well-known/ discovery surface published. All probes returned 404;
+  only robots.txt is served. Recorded as an honest probe result — Toka is a
+  government-facing defense/intelligence company with no public API surface.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404
+- path: /robots.txt
+  status: 200

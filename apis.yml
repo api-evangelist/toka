@@ -1,7 +1,13 @@
 aid: toka
 name: Toka
-description: Toka is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Toka is a defense and intelligence technology company, founded in 2017-2018
+  and headquartered in Maryland with R&D in Israel, that develops signals intelligence,
+  ISR, cyber operations, and force protection capabilities exclusively for militaries,
+  homeland security organizations, intelligence agencies, and law enforcement in the
+  United States and allied nations. Backed by Andreessen Horowitz (a16z), Eclipse Ventures,
+  and Dell Technologies Capital, Toka sells government-facing capability platforms and
+  cyber capacity-building services rather than a public developer or API surface, and
+  publishes no developer portal, documentation, or machine-readable API artifacts.
 url: https://raw.githubusercontent.com/api-evangelist/toka/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +15,54 @@ x-backed-by:
 - a16z
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://tokagroup.com/wp-content/uploads/2026/03/Toka-Logo-2.svg
 tags:
 - Company
+- Cybersecurity
+- Intelligence
+- Government
+- Defense
+- Surveillance
+- Signals-Intelligence
 apis: []
+common:
+- type: DomainSecurity
+  url: security/toka-domain-security.yml
+- type: Website
+  url: https://tokagroup.com/
+- type: PrivacyPolicy
+  url: https://tokagroup.com/privacy-policy/
+- type: TermsOfService
+  url: https://tokagroup.com/terms-conditions/
+- type: Careers
+  url: https://tokagroup.com/careers/
+- type: News
+  url: https://tokagroup.com/news/
+- type: LinkedIn
+  url: https://il.linkedin.com/company/tokacompany
+- type: YouTube
+  url: https://www.youtube.com/channel/UC8U6NsmcvY9VIwPqd73l2Zg
+- type: LLMsTxt
+  url: llms/toka-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
