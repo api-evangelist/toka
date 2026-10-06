@@ -44,7 +44,7 @@ accessModel:
   method: derived
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-10-06'
 image: https://tokagroup.com/wp-content/uploads/2026/03/Toka-Logo-2.svg
 tags:
 - Company
@@ -64,6 +64,8 @@ tags_raw:
 - Signals-Intelligence
 apis: []
 common:
+- url: https://tokagroup.com/news/feed/
+  type: BlogRSS
 - type: DomainSecurity
   url: security/toka-domain-security.yml
 - type: Website
